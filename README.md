@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="raghavocode.png" alt="8-bit coding avocado deep in focus"/>
+<img src="raghavocode-1.png" alt="8-bit coding avocado deep in focus"/>
 
 ### I am Raghav aka `raghavocode` 🥑 | Code or Ripe
 
