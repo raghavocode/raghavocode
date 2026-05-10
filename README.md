@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**raghavocode/raghavocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="raghavocode.png" alt="8-bit coding avocado deep in focus"/>
 
-Here are some ideas to get you started:
+### I am Raghav aka `raghavocode` 🥑 | Code or Ripe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer focusing on the physics of distributed systems, backend architecture, and orchestration. After over a decade in the enterprise trenches building secure, scalable products, I'm taking a clean-slate approach to open-source—building, experimenting, and sharing my technical deep dives out in the open.
+
+### 🏗️ What I'm Building & Exploring
+*   **Architecture & Scale:** Deep diving into distributed systems architecture, system design, and advanced data structures.
+*   **Next-Gen Engineering:** Exploring Agentic AI systems and multi-agent communication frameworks built natively in Java.
+*   **Libraries/Frameworks:** Brewing for reusable libraries for Java
+
+### 🛠️ Core Stack & Tools
+*   **Language:** Java ☕, Javascript, GoLang(beginner)
+*   **Frameworks & Identity:** Spring Boot, Keycloak
+*   **Infrastructure & Security:** Docker, Kubernetes, HashiCorp Vault, Opentofu
+*   **Databases:** Oracle, Postgres, Elasticsearch/Opensearch
+
